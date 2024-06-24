@@ -1,4 +1,4 @@
-<p align="center"><img src="profile/logo.svg" width="50%"></img></p>
+<p align="center"><img src="logo.svg" width="50%"></img></p>
 
 # SHARLY - [S]mart [H]ome [A]gent, [R]ea[L]l[Y]?!
 Framework for smart environment applications in household and care sector,
@@ -12,5 +12,5 @@ ultimately fostering a more connected, intelligent, and compassionate living
 environment.
 
 ## Affiliated Organizations
-[<p align="center"><img src="profile/logo_sail.svg" width=50%></p>](https://www.sail.nrw)
-[<p align="center"><img src="profile/logo_caretech.svg" width=50%></p>](https://www.caretech-owl.de)
+[<p align="center"><img src="logo_sail.svg" width=50%></p>](https://www.sail.nrw)
+[<p align="center"><img src="logo_caretech.svg" width=50%></p>](https://www.caretech-owl.de)
